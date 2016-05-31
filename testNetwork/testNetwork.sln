@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
+# Visual Studio 2015
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testNetwork.CSharp.Plugins", "testNetwork.CSharp.Plugins.csproj", "{99F29810-4743-2309-1EA5-A4435F823835}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testNetwork.CSharp", "testNetwork.CSharp.csproj", "{AE619AAB-D8FF-F40F-143E-9571FBE43B21}"
